@@ -2,7 +2,7 @@
 
 
 class Animal:  # pylint: disable=too-few-public-methods
-    """This is Animal class"""
+    """This is Animal class <3"""
 
     def __init__(self, color: int) -> None:
         """Animal init function
